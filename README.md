@@ -1,5 +1,5 @@
 # The `numeris-scribere` Package
-<div align="center">Version 0.1.1</div>
+<div align="center">Version 0.1.2</div>
 
 Literal naming of numbers in multiple languages. Using the great [`n2words`](https://github.com/forzagreen/n2words) package.
 
@@ -29,10 +29,8 @@ Literal naming of numbers in multiple languages. Using the great [`n2words`](htt
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on the typst web app. Perhaps a short code example on importing the package and a very simple teaser usage.
-
 ```typ
-#import "@preview/numeris-scribere:0.1.1": *
+#import "@preview/numeris-scribere:0.1.2": *
 
 #let myNumber = 3254
 
@@ -70,7 +68,7 @@ $ just test
 
 
 ```typ
-#import "@preview/numeris-scribere:0.1.1": *
+#import "@preview/numeris-scribere:0.1.2": *
 
 #let myNumber = 3254
 
