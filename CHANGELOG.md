@@ -14,7 +14,10 @@
 
 ### Security
 
-## [0.1.0] - 2025-01-01
+## [0.1.1] - 2025-19-12
+- exclude `.gitmodules`
+
+## [0.1.0] - 2025-19-12
 
 inital version
 
@@ -25,5 +28,6 @@ to the corresponding tag on GitHub, or the diff
 in comparison to the previous release
 -->
 
-<!--[Unreleased]: https://github.com/Simon-Laux/numeris-scribere/compare/v0.1.0...HEAD-->
-<!--[0.1.0]: https://github.com/Simon-Laux/numeris-scribere/releases/tag/v0.1.0-->
+[Unreleased]: https://github.com/Simon-Laux/numeris-scribere/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/Simon-Laux/numeris-scribere/releases/tag/v0.1.0...v0.1.1
+[0.1.0]: https://github.com/Simon-Laux/numeris-scribere/releases/tag/v0.1.0
