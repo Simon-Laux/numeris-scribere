@@ -11,6 +11,7 @@ description = "Literal naming of numbers in multiple languages. Using the great 
 repository = "https://github.com/Simon-Laux/numeris-scribere"
 keywords = ["numbers", "naming", "spell", "literal"]
 categories = ["text", "languages"]
+compiler="0.13.0"
 exclude = [
   ".github",
   "docs",

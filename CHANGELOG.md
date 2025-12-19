@@ -14,14 +14,9 @@
 
 ### Security
 
-<!--## [0.1.0] - 2025-01-01
+## [0.1.0] - 2025-01-01
 
 inital version
-
-<!-- Describe the feature set of the initial release here -->
--
--
--
 
 <!--
 Below are the target URLs for each version
