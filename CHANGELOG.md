@@ -5,6 +5,7 @@
 ### Added
 
 ### Changed
+- Move local installation instructions to "CONTRIBUTING.md" file
 
 ### Deprecated
 
