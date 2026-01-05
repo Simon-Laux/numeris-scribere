@@ -43,29 +43,8 @@ Literal naming of numbers in multiple languages. Using the great [`n2words`](htt
   <img src="./thumbnail-light.svg">
 </picture>
 
-### Installation
-
-To build the follow these steps
-
-```sh
-$ nix-shell -p typst esbuild just
-$ just update-n2words
-```
-
-Or if you also want to use an IDE: 
-```sh
-$ nix-shell -p typst tinymist zed-editor esbuild just
-$ zeditor .
-```
-
-To test you need [tytanic](https://typst-community.github.io/tytanic/quickstart/install.html):
-```sh
-$ nix shell github:typst-community/tytanic/v0.3.3
-$ just test
-```
 
 ## Usage
-
 
 ```typ
 #import "@preview/numeris-scribere:0.1.2": *

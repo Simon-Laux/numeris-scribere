@@ -23,5 +23,6 @@ exclude = [
   "thumbnail-light.svg",
   "n2words",
   ".gitmodules",
-  "CHANGELOG.md"
+  "CHANGELOG.md",
+  "CONTRIBUTING.md"
 ]

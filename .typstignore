@@ -16,3 +16,4 @@ docs/*
 !docs/*.pdf
 n2words
 .gitmodules
+CONTRIBUTING.md
