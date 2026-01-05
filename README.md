@@ -40,7 +40,7 @@ Literal naming of numbers in multiple languages. Using the great [`n2words`](htt
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./thumbnail-dark.svg">
-  <img src="./thumbnail-light.svg">
+  <img alt="The number 3254 spelled in English and German" src="./thumbnail-light.svg">
 </picture>
 
 

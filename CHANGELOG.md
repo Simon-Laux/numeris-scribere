@@ -6,6 +6,7 @@
 
 ### Changed
 - Move local installation instructions to "CONTRIBUTING.md" file
+- add alt text to example image
 
 ### Deprecated
 
