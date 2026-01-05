@@ -1,5 +1,5 @@
 # The `numeris-scribere` Package
-<div align="center">Version 0.1.2</div>
+<div align="center">Version 0.1.3</div>
 
 Literal naming of numbers in multiple languages. Using the great [`n2words`](https://github.com/forzagreen/n2words) package.
 
@@ -30,7 +30,7 @@ Literal naming of numbers in multiple languages. Using the great [`n2words`](htt
 ## Getting Started
 
 ```typ
-#import "@preview/numeris-scribere:0.1.2": *
+#import "@preview/numeris-scribere:0.1.3": *
 
 #let myNumber = 3254
 
@@ -47,7 +47,7 @@ Literal naming of numbers in multiple languages. Using the great [`n2words`](htt
 ## Usage
 
 ```typ
-#import "@preview/numeris-scribere:0.1.2": *
+#import "@preview/numeris-scribere:0.1.3": *
 
 #let myNumber = 3254
 
